@@ -1,0 +1,33 @@
+/* header nav{
+gap: 16px;
+display: flex;
+justify-content: flex-end;
+max-width: 1200px;
+margin: 0 auto;
+}
+
+header nav h1{
+    margin-right: auto;
+    border-bottom: 3px solid blue ;
+}
+header nav a {
+text-decoration: none;
+border-radius: 4px;
+padding: 6px;
+}
+
+header nav a:hover{
+background: blueviolet;
+}
+
+header nav a.active{
+    background: red;
+    }
+
+ main{
+ max-width: 1200px;
+ margin: 40px auto;
+} */
+
+
+
